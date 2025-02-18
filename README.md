@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Umid085
-- 👀 I’m interested in Front End Dev
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me peersalexandr@gmail.com
+👋 Hi, I’m Umid!  
+- 🔍 Passionate about **database analysis** and data-driven decision-making  
+- 📊 Currently learning **databases** and exploring **data trends**  
+- 🤝 Looking to connect and collaborate on **data-related projects**  
+- 🚀 Aspiring to become a **database analyst** and travel the world  
+- 📫 Reach me at **peersalexandr@gmail.com**  
 
-<!---
-Umid085/Umid085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's analyze data and uncover insights together! 😊  
